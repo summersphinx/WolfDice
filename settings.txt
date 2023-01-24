@@ -1,0 +1,8 @@
+Save Sim Data
+Delay on new simulation
+Default Starting Pack
+Default Years
+Theme
+Output Theme
+Tweaks Theme
+Data Theme

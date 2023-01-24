@@ -1,0 +1,4 @@
+Show Questions  | True/False
+Submission Type | csv via email / csv download / google sheets / microsoft forms /
+Grab Data           | True/False
+Questions           | change questions (questions must be placed in same directory as wolfdice.exe for them to update)
